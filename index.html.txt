@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Max Web Studio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav>
+      <h2>Max Web Studio</h2>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="hero-content">
+      <h1>I build clean websites for small businesses.</h1>
+      <p>
+        Simple, modern, mobile-friendly websites for tutors, restaurants,
+        creators, and local businesses.
+      </p>
+      <a class="button" href="#contact">Get a free consultation</a>
+    </div>
+  </header>
+
+  <section class="section">
+    <h2>What I Offer</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>Business Websites</h3>
+        <p>Landing pages, service pages, and simple company websites.</p>
+      </div>
+      <div class="card">
+        <h3>Mobile-Friendly Design</h3>
+        <p>Your site will look good on phones, tablets, and computers.</p>
+      </div>
+      <div class="card">
+        <h3>Fast Hosting</h3>
+        <p>Hosted with Cloudflare Pages for speed and reliability.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="contact">
+    <h2>Contact Me</h2>
+    <p>Email me at: max@example.com</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Max Web Studio. All rights reserved.</p>
+  </footer>
+</body>
+</html>
